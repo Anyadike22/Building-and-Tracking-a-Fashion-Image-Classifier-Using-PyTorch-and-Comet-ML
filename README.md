@@ -32,17 +32,17 @@ pip install -r requirements.txt
 # How to Run
 Set up your Comet ML account:
 
--Create a Comet account
+- Create a Comet account
 
--Get your API key from your Comet dashboard
+- Get your API key from your Comet dashboard
 
--You can either:
+- You can either:
 
 ## Set environment variables:
 
--export COMET_API_KEY="your-api-key"
--export COMET_PROJECT_NAME="fashion-mnist-demo"
--export COMET_WORKSPACE="your-workspace-name"
+- export COMET_API_KEY="your-api-key"
+- export COMET_PROJECT_NAME="fashion-mnist-demo"
+- export COMET_WORKSPACE="your-workspace-name"
 
 Or hardcode them in the script (not recommended for shared code).
 
