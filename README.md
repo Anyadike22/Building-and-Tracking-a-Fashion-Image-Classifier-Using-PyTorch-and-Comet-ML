@@ -32,25 +32,25 @@ pip install -r requirements.txt
 # How to Run
 Set up your Comet ML account:
 
-Create a Comet account
+-Create a Comet account
 
-Get your API key from your Comet dashboard
+-Get your API key from your Comet dashboard
 
-You can either:
+-You can either:
 
-Set environment variables:
+## Set environment variables:
 
-export COMET_API_KEY="your-api-key"
-export COMET_PROJECT_NAME="fashion-mnist-demo"
-export COMET_WORKSPACE="your-workspace-name"
+-export COMET_API_KEY="your-api-key"
+-export COMET_PROJECT_NAME="fashion-mnist-demo"
+-export COMET_WORKSPACE="your-workspace-name"
 
 Or hardcode them in the script (not recommended for shared code).
 
-#Run the training script
+# Run the training script
 
 python train_fashion_mnist.py
 
-#📊 #Logged Metrics on Comet
+#📊Logged Metrics on Comet
 After training, you can view your experiment dashboard on comet.com with:
 
 Training loss per epoch
