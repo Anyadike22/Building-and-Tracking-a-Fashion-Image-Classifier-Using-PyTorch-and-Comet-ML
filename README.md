@@ -1,8 +1,6 @@
 # Building-and-Tracking-a-Fashion-Image-Classifier-Using-PyTorch-and-Comet-ML
 
 
-# 🧠 FashionMNIST Classifier with PyTorch and Comet ML
-
 This project builds and trains a deep learning model to classify clothing items using the FashionMNIST dataset. It integrates [Comet ML](https://www.comet.com/) to track experiments, log metrics, save models, and version your training code — enabling full reproducibility and insight into model performance.
 
 
