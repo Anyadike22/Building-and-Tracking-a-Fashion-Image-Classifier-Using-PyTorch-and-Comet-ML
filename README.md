@@ -53,10 +53,10 @@ python train_fashion_mnist.py
 #📊Logged Metrics on Comet
 After training, you can view your experiment dashboard on comet.com with:
 
-Training loss per epoch
+- Training loss per epoch
 
-Logged hyperparameters
+- Logged hyperparameters
 
-Model file (.pt)
+- Model file (.pt)
 
-Source code version
+- Source code version
