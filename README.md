@@ -60,3 +60,11 @@ After training, you can view your experiment dashboard on comet.com with:
 - Model file (.pt)
 
 - Source code version
+
+
+# Tracking Experiment on Comet-ML
+
+The experiment details and parameters are from Comet dashboard which is intuitive and easy to understand.
+Below is an example of tracking the Loss versus Step.
+
+![Description of Image](pix1.png)
